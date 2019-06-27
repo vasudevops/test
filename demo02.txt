@@ -9,5 +9,13 @@ git log
 git branch
 git branch --all
 git checkout
+
+
+git diff
+git rebase
+git revert
+git merging
+git reset
+git branch -D
 git clone
 
