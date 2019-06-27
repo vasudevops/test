@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is local git modified byh 27 th
+=======
+this is in github for demo purpose
+>>>>>>> 60bedd401b60cd0d47ca646b73dce5cffac173c3
